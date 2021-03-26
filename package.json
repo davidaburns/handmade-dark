@@ -1,8 +1,8 @@
 {
     "name": "handmade-dark",
-    "displayName": "handmade-dark",
+    "displayName": "Handmade Dark",
     "description": "A dark theme for vs-code base off of https://github.com/CreaturePhil/vim-handmade-hero",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.51.0"
     },
