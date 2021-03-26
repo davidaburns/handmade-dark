@@ -3,6 +3,15 @@
     "displayName": "Handmade Dark",
     "description": "A dark theme for vs-code base off of https://github.com/CreaturePhil/vim-handmade-hero",
     "version": "0.1.0",
+    "author": {
+        "name": "David A Burns",
+        "email": "davidaaronburns@gmail.com"
+    },
+    "license": "SEE LICENSE IN LICENSE FILE",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/davidaburns/handmade-dark"
+    },
     "engines": {
         "vscode": "^1.51.0"
     },
