@@ -1,6 +1,14 @@
 # Handmade Dark
 
-This extension adds a dark theme inspired based on Casey Muratoris theme used in eMacs and 4Coder
+This extension adds a dark theme inspired based on Casey Muratoris theme used in eMacs and 4Coder.
+
+## NOTE
+
+This theme is very much in its beginning phases, and this is my first pass at a VSCode extension so there could be
+weird inconsitencies between languages
+
+
+## Screenshot
 
 ![Rust](images/screenshot.png)
 
