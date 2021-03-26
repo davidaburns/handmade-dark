@@ -120,7 +120,7 @@
 				"meta.attribute.rust",
 				"entity.name.function.decorator.python",
 				"punctuation.definition.decorator.python",
-				"support.type.python"
+				"support.type"
 				
 			],
 			"settings": {
