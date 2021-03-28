@@ -8,6 +8,8 @@
 		"editorInfo.background": "#161616",
 		"editorGroupHeader.tabsBackground": "#161616",
 
+		"tab.inactiveBackground": "#161616",
+
 		"sideBarSectionHeader.background": "#161616",
 		"sideBar.background": "#161616",
 		"sideBar.dropBackground": "#161616",
@@ -15,6 +17,7 @@
 		"statusBar.background": "#161616",
 		
 		"titleBar.activeBackground": "#161616",
+		"sideBarTitle.foreground": "#bbbbbb",
 		
 		"menu.background": "#161616",
 		
@@ -25,9 +28,7 @@
 		"terminal.background": "#161616",
 		
 		"activityBar.background": "#161616",
-		"activityBarBadge.background": "#161616",
-		
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBarBadge.background": "#161616"
 	},
 	"tokenColors": [
 		{
