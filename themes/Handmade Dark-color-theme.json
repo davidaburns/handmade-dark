@@ -67,6 +67,8 @@
 				"entity.name.type.struct.rust",
 				"entity.name.type.enum.rust",
 				"entity.other.attribute-name",
+				"entity.name.type.namespace",
+				"entity.name.type.class",
 				"meta.block",
 				"meta.tag",
 				"meta.function-call",

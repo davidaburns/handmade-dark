@@ -1,9 +1,15 @@
 # Change Log
 
-All notable changes to the "handmade-dark" extension will be documented in this file.
+## 0.3.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- `entity.name.type.namespace` set to Burlywood 3
+- `entity.name.type.class` set to Burlywood 3
 
-## [Unreleased]
+## 0.2.0
+
+- `editorGroupHeader.tabsBackground` set to #161616
+- `tab.inactiveBackground` set to #161616
+
+## 0.1.0
 
 - Initial release
