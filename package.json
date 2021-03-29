@@ -1,8 +1,9 @@
 {
     "name": "handmade-dark",
     "displayName": "Handmade Dark",
-    "description": "A dark theme for vs-code base off of https://github.com/CreaturePhil/vim-handmade-hero",
-    "version": "0.1.0",
+    "description": "A dark mode theme based on Casey Muratoris editor in Handmade Hero series",
+    "version": "0.2.0",
+    "publisher": "DavidABurns",
     "author": {
         "name": "David A Burns",
         "email": "davidaaronburns@gmail.com"
